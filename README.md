@@ -6,6 +6,6 @@
 
 🤖 Learning Rust
 
-🏛️ Based in Edinburgh
+🏴󠁧󠁢󠁳󠁣󠁴󠁿 Based in Edinburgh
 
 💼 Looking for work
